@@ -1,6 +1,6 @@
 # Mathematics for Data Science and Machine Learning
 
-This repo is created for the Open Data Science Conference (ODSC West) 2020 workshop on mathematics for data science and machine learning. As the facilitator for this workshop, I will upload the workshop materials (slide deck) and code book here. I will also include prerequisites and materials to download (if any). See below for the abstract and content of the workshop. 
+This repo is created for the [Open Data Science Conference (ODSC West) 2020](https://odsc.com/california/speakers-west-2020/) workshop on mathematics for data science and machine learning. As the facilitator for this workshop, I will upload the workshop materials (slide deck) and code book here. I will also include prerequisites and materials to download (if any). See below for the abstract and content of the workshop. 
 
 ## Abstract:
 
@@ -10,16 +10,16 @@ By completing this workshop, you will develop an understanding of some of the mo
 
 ## Outline
 
-**Lesson 1: Multivariate Calculus and Neural Networks**
+- **Lesson 1: Multivariate Calculus and Neural Networks**
 Training a neural network means parameter optimization. In this lesson, you will familiarize yourself with using differential calculus to compute gradients of a loss function with respect to the parameters of a neural network. You will understand the building blocks of multivariate calculus like the sum rule, the product rule, chain rule, the Jacobian and the Hessian.
 
-**Lesson 2: From Linear Algebra to Dimensionality Reduction**
+- **Lesson 2: From Linear Algebra to Dimensionality Reduction**
 The goal of dimensionality reduction is to replace a large matrix by two more other matrices whose sizes are smaller than the original, but from which the original can be approximately reconstructed, usually by taking their product. In this lesson, we will explore the basic concepts of linear algebra: eigenvalues, eigenvectors and matrix multiplication. You will be able to understand dimensionality reduction techniques like Principal-Component Analysis (PCA) and Singular-Value Decomposition (SVD).
 
-**Lesson 3: Maximum Likelihood Estimation and Gradient-Based Optimization**
+- **Lesson 3: Maximum Likelihood Estimation and Gradient-Based Optimization**
 In supervised machine learning, the cost functions are important for measuring the performance of a trained model. In this lesson, you will learn how to derive the cost function for regression (mean squared error) and binary classification (cross entropy) using maximum likelihood estimation. You will also build up the intuition for gradient-based optimization, their difficulties, variants and tips for optimal performance.
 
 ## Bio
 
-Adewale (Wale) Akinfaderin is a Data Scientist at Amazon Web Services. His expertise is in machine learning, deep learning, statistical experimentation and general information theory. He has broad experience implementing and extending ML techniques to solve practical and business problems. In his spare time, he conducts research on Machine Learning for the Developing World. He is a volunteer researcher on machine translation for low-resourced languages for Masakhane and a Google Developer Expert in Machine Learning.
+Adewale (Wale) Akinfaderin is a Data Scientist at Amazon Web Services. His expertise is in machine learning, deep learning, statistical experimentation and general information theory. He has broad experience implementing and extending ML techniques to solve practical and business problems. In his spare time, he conducts research on Machine Learning for the Developing World. He is a volunteer researcher on machine translation for low-resourced languages with [Masakhane](https://www.masakhane.io/) and a Google Developer Expert in Machine Learning.
 
