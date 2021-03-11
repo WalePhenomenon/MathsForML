@@ -1,6 +1,6 @@
 # Mathematics for Data Science and Machine Learning
 
-This repo is created for the [Open Data Science Conference (ODSC West) 2020](https://odsc.com/california/speakers-west-2020/) workshop on mathematics for data science and machine learning. As the facilitator for this workshop, I will upload the workshop materials (slide deck) and code book here. I will also include prerequisites and materials to download (if any). See below for the abstract and content of the workshop. 
+This repo is created for a workshop on mathematics for data science and machine learning. As the facilitator for this workshop, I will upload the workshop materials (slide deck) and code book here. I will also include prerequisites and materials to download (if any). See below for the abstract and content of the workshop. 
 
 ## Abstract:
 
